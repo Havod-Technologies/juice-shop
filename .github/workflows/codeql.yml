@@ -1,4 +1,5 @@
-#CodeQL Template
+#CodeQL Template for security scans
+
 name: "CodeQL"
 
 on:
