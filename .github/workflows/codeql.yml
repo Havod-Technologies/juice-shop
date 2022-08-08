@@ -1,6 +1,4 @@
-
-#CodeQL sample for vuln scans 
-
+#CodeQL Template
 name: "CodeQL"
 
 on:
